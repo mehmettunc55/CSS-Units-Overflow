@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.abs{
+    background-color: orange;
+    width: 350px;
+    width: 50cm;
+    width: 5in;
+}
+
+.div2{
+   background-color: blueviolet; 
+   width: 50%;
+}
+.div3{
+   background-color: rgb(226, 43, 98); 
+   width: 50%;
+}
+.div4{
+   background-color: rgb(189, 226, 43); 
+   width: 50%;
+   width: 51vw;
+}
